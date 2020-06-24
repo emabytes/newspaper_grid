@@ -109,8 +109,8 @@ aside {
 
 aside div {
     border: 4px double #333;
-    width: 200px;
-    height: 25vh;
+    width: 14vw;
+    height: 23vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
